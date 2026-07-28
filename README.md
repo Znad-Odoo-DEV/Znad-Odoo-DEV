@@ -14,8 +14,8 @@ XML, OWL and SQL that make them real.
   advances/loans/fines, end-of-service, per-project labour cost.
 - **Operations** — repair/service workflows, real-estate listings and offers,
   project cost distribution.
-- **Migrations** — replacing Odoo Studio customisations with maintainable native
-  modules, without losing the data or stopping the business.
+- **Migrations** — replacing outgrown configurations and spreadsheets with
+  maintainable native modules, without losing the data or stopping the business.
 - **Multi-company setups** — record rules, security groups, and reporting that
   respect who is allowed to see what.
 
