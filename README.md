@@ -18,6 +18,9 @@ XML, OWL and SQL that make them real.
   maintainable native modules, without losing the data or stopping the business.
 - **Multi-company setups** — record rules, security groups, and reporting that
   respect who is allowed to see what.
+- **Functional coverage** — every Odoo app except Accounting: Payroll, HR,
+  Attendance, Recruitment, Inventory, Purchase, Sales, CRM, Manufacturing,
+  Projects, Field Service, Maintenance, Fleet, Helpdesk and Website.
 
 ## Projects
 
