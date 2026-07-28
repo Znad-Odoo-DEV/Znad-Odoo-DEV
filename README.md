@@ -37,4 +37,6 @@ XML, OWL and SQL that make them real.
 
 ## Contact
 
-📧 [id7sp22@gmail.com](mailto:id7sp22@gmail.com)
+- **Portfolio** — [znad-odoo-dev.github.io](https://znad-odoo-dev.github.io)
+- **LinkedIn** — [ibrahim-elzand](https://www.linkedin.com/in/ibrahim-elzand/)
+- **Email** — [id7sp22@gmail.com](mailto:id7sp22@gmail.com)
