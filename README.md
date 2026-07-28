@@ -28,7 +28,8 @@ XML, OWL and SQL that make them real.
 | [**ems_app**](https://github.com/Znad-Odoo-DEV/ems_app) | Odoo 19 modular app for an electronics repair workshop — reception, diagnosis, parts, repair, billing, delivery and reporting, each as its own module. |
 | [**estate**](https://github.com/Znad-Odoo-DEV/estate) | Odoo 19 real-estate module: property types and tags, offer workflow, availability and pricing rules. |
 | [**estate_accounts**](https://github.com/Znad-Odoo-DEV/estate_accounts) | Accounting bridge for `estate`: raises the customer invoice automatically when a property is sold. |
-| **Corporate WordPress themes** | Two bespoke enterprise themes for holding groups working in real estate, construction, engineering and MEP: custom post types, page-builder blocks, bilingual AR/EN, and performance tuning. *(client work)* |
+| [**malak-al-reem**](https://github.com/Znad-Odoo-DEV/malak-al-reem) | Bespoke WordPress theme for an investment group across real estate, construction, engineering, MEP, natural stone and wood manufacturing. Group companies, projects, insights and careers as custom post types, taxonomy-driven filtering, a one-click content importer, and a full Customizer panel — no page builder, no third-party plugin. Live: [malakalreem.com](https://malakalreem.com). |
+| [**saud-shehatha**](https://github.com/Znad-Odoo-DEV/saud-shehatha) | The group's contracting arm on its own theme, built from the group design system: dynamic projects with galleries and a lightbox, news and events, animated counters, newsletter and contact forms, and full Arabic RTL with an automatic Arabic face. Live: [saudconstruction.com](https://saudconstruction.com). |
 
 ## Stack
 
